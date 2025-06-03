@@ -77,9 +77,9 @@ if __name__ == "__main__":
 
 
 """
-                                                            *****************  
-                                                            * OUTPUT Example*
-                                                            *****************
+                                                            ******************  
+                                                            * OUTPUT Example *
+                                                            ******************
 [
   {
     "victim": "Cator Ruma & Associates",
