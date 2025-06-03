@@ -77,15 +77,14 @@ if __name__ == "__main__":
 
 
 """
-                                                            **********  
-                                                            * OUTPUT *
-                                                            **********
+                                                            *****************  
+                                                            * OUTPUT Example*
+                                                            *****************
 [
   {
     "victim": "Cator Ruma & Associates",
     "description": "Since our founding in 1959, Cator, Ruma & Associates has worked with many architects and clients to build thriving communities across the western and central United States.",
     "date_listed": "5 days 03:28:22",
-    "sector": "Unknown",
     "leaked_files": 3,
     "status": "data posted"
   },
@@ -93,7 +92,6 @@ if __name__ == "__main__":
     "victim": "Carrera Chevrolet",
     "description": "",
     "date_listed": "2 days 20:23:22",
-    "sector": "Unknown",
     "leaked_files": 4,
     "status": "data posted"
   }
