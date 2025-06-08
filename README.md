@@ -31,11 +31,6 @@ Welcome to Threat Actor Profiles, a weekly series of structured threat-intellige
    - High-profile breaches and ransom events  
    - Publicized ransom demands, leak sites, extortion methods
 
-5. Defensive Considerations  
-   - Key indicators (IoCs) to monitor  
-   - Detection tips (log events, unusual behaviors)  
-   - Mitigation recommendations (patching, segmentation, hardening)
-
 ---
 
 ### Why This Series Is Different
